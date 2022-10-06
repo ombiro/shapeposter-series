@@ -1,1 +1,1 @@
-# shapeposter-series
+# shape poster-series
